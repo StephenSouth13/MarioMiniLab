@@ -4844,6 +4844,14 @@ PrefabInstance:
       propertyPath: _detectRange
       value: 7.27
       objectReference: {fileID: 0}
+    - target: {fileID: 6846319586922496901, guid: f39e5b70c8662584d902d28dbe2385ce, type: 3}
+      propertyPath: _layerMask.m_Bits
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846319586922496902, guid: f39e5b70c8662584d902d28dbe2385ce, type: 3}
+      propertyPath: _layerMask.m_Bits
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6846319586922496927, guid: f39e5b70c8662584d902d28dbe2385ce, type: 3}
       propertyPath: m_Name
       value: Chicken
